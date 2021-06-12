@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51339760136",
+    "project_id": "crud-9054e",
+    "storage_bucket": "crud-9054e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51339760136:android:79f03234889257f827f7bd",
+        "android_client_info": {
+          "package_name": "com.fandi.crud_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51339760136-2b5ek70rhdbvh1pad57inf39ibr469iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIgtGSOg8A25JLS0-2BqZ7yWERlMzOpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51339760136-2b5ek70rhdbvh1pad57inf39ibr469iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
